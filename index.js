@@ -9,7 +9,7 @@ const port = 5000;
 
 // Allow specific origins
 const corsOptions = {
-  origin: ['https://xenon-frontend-5j94p6vjb-varunupadhyay802s-projects.vercel.app', 'http://localhost:3000'], // replace with your specific URLs
+  origin: ['https://xenon-frontend-nine.vercel.app', 'http://localhost:3000'], // replace with your specific URLs
   optionsSuccessStatus: 200
 }
 

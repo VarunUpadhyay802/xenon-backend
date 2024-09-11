@@ -141,5 +141,60 @@
         "status": "For Sale",
         "listed_time": "3 months ago",
         "owner": "Owner Name"
+    },
+    {
+        "id": 16,
+        "title": "Beach House",
+        "image": "https://images.pexels.com/photos/2598638/pexels-photo-2598638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Lovely beach house with a view.",
+        "price": "350,000.00",
+        "location": "Santa Monica",
+        "status": "For Sale",
+        "listed_time": "2 months ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 17,
+        "title": "Downtown Loft",
+        "image": "https://images.pexels.com/photos/1714430/pexels-photo-1714430.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Modern loft in the heart of downtown.",
+        "price": "275,000.00",
+        "location": "New York",
+        "status": "For Rent",
+        "listed_time": "3 months ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 18,
+        "title": "Lakeview Cabin",
+        "image": "https://images.pexels.com/photos/2883047/pexels-photo-2883047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Cozy cabin with lake views.",
+        "price": "180,000.00",
+        "location": "Lake Tahoe",
+        "status": "For Sale",
+        "listed_time": "5 months ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 19,
+        "title": "Gated Community Home",
+        "image": "https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Secure home in a gated community.",
+        "price": "250,000.00",
+        "location": "San Diego",
+        "status": "For Sale",
+        "listed_time": "1 year ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 20,
+        "title": "Modern Farmhouse",
+        "image": "https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Sleek farmhouse with modern touches.",
+        "price": "300,000.00",
+        "location": "Raleigh",
+        "status": "For Rent",
+        "listed_time": "6 months ago",
+        "owner": "Owner Name"
     }
 ]
