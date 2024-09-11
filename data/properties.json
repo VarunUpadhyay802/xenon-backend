@@ -1,0 +1,145 @@
+[
+    {
+        "id": 3,
+        "title": "Cozy Cottage",
+        "image": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Charming cottage in a quiet neighborhood.",
+        "price": "65,000.00",
+        "location": "Aspen",
+        "status": "For Sale",
+        "listed_time": "2 years ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 4,
+        "title": "Modern Loft",
+        "image": "https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Stylish loft with open floor plan.",
+        "price": "95,000.00",
+        "location": "Chicago",
+        "status": "For Rent",
+        "listed_time": "8 months ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 5,
+        "title": "Beachfront Bungalow",
+        "image": "https://images.pexels.com/photos/53464/sheraton-palace-hotel-lobby-architecture-san-francisco-53464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Sunny bungalow with ocean views.",
+        "price": "200,000.00",
+        "location": "Miami",
+        "status": "For Sale",
+        "listed_time": "1 month ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 6,
+        "title": "City Penthouse",
+        "image": "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Luxurious penthouse in the heart of the city.",
+        "price": "500,000.00",
+        "location": "San Francisco",
+        "status": "For Rent",
+        "listed_time": "3 months ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 7,
+        "title": "Rustic Farmhouse",
+        "image": "https://images.pexels.com/photos/277572/pexels-photo-277572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Spacious farmhouse with large property.",
+        "price": "120,000.00",
+        "location": "Napa Valley",
+        "status": "For Sale",
+        "listed_time": "6 months ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 8,
+        "title": "Urban Apartment",
+        "image": "https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Modern apartment with city amenities.",
+        "price": "85,000.00",
+        "location": "Seattle",
+        "status": "For Rent",
+        "listed_time": "1 year ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 9,
+        "title": "Mountain Retreat",
+        "image": "https://images.pexels.com/photos/2096983/pexels-photo-2096983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Relaxing retreat in the mountains.",
+        "price": "140,000.00",
+        "location": "Denver",
+        "status": "For Sale",
+        "listed_time": "4 months ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 10,
+        "title": "Suburban Home",
+        "image": "https://images.pexels.com/photos/1268855/pexels-photo-1268855.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Family-friendly home in a suburban area.",
+        "price": "90,000.00",
+        "location": "Dallas",
+        "status": "For Rent",
+        "listed_time": "9 months ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 11,
+        "title": "Luxury Estate",
+        "image": "https://images.pexels.com/photos/53577/hotel-architectural-tourism-travel-53577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Elegant estate with expansive grounds.",
+        "price": "1,000,000.00",
+        "location": "Beverly Hills",
+        "status": "For Sale",
+        "listed_time": "2 years ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 12,
+        "title": "Historic Mansion",
+        "image": "https://images.pexels.com/photos/2507007/pexels-photo-2507007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Beautifully restored historic mansion.",
+        "price": "750,000.00",
+        "location": "Philadelphia",
+        "status": "For Rent",
+        "listed_time": "5 months ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 13,
+        "title": "Contemporary House",
+        "image": "https://images.pexels.com/photos/2598638/pexels-photo-2598638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Sleek contemporary house with modern design.",
+        "price": "220,000.00",
+        "location": "Austin",
+        "status": "For Sale",
+        "listed_time": "7 months ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 14,
+        "title": "Studio Apartment",
+        "image": "https://images.pexels.com/photos/1145257/pexels-photo-1145257.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "description": "Compact studio apartment ideal for city living.",
+        "price": "60,000.00",
+        "location": "Boston",
+        "status": "For Rent",
+        "listed_time": "1 year ago",
+        "owner": "Owner Name"
+    },
+    {
+        "id": 15,
+        "title": "Country Cottage",
+        "image": "https://images.pexels.com/photos/2883047/pexels-photo-2883047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Charming country cottage with large garden.",
+        "price": "70,000.00",
+        "location": "Vermont",
+        "status": "For Sale",
+        "listed_time": "3 months ago",
+        "owner": "Owner Name"
+    }
+]
